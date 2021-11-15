@@ -46,14 +46,14 @@ function preload() {
                  "gameOver/36.png", "gameOver/37.png", "gameOver/38.png", "gameOver/39.png", "gameOver/40.png", "gameOver/41.png", "gameOver/42.png", "gameOver/43.png", "gameOver/44.png",
                   "gameOver/45.png", )
   thI = loadImage("Images/this.png")
-  s1 = loadSound("song/jump.wav")
-  s2 = loadSound("song/hit.wav")
+  s1 = loadSound("song/jump.mp3")
+  s2 = loadSound("song/hit.mp3")
   s3 = loadSound("song/over.mp3")
   s4 = loadSound("song/Fireball.mp3")
   s5 = loadSound("song/transfer.mp3")
-  s6 = loadSound("song/again.wav")
-  s7 = loadSound("song/restart.wav")
-  s8 = loadSound("song/recharge come.wav")
+  s6 = loadSound("song/again.mp3")
+  s7 = loadSound("song/restart.mp3")
+  s8 = loadSound("song/recharge come.mp3")
 }
 
 function setup() {
