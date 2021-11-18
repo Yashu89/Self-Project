@@ -48,7 +48,7 @@ function preload() {
   thI = loadImage("Images/this.png")
   s1 = loadSound("song/jump.mp3")
   s2 = loadSound("song/hit.mp3")
-  s3 = loadSound("song/over.mp3")
+  s3 = loadSound("song/gameOver.mp3")
   s4 = loadSound("song/Fireball.mp3")
   s5 = loadSound("song/transfer.mp3")
   s6 = loadSound("song/again.mp3")
